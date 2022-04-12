@@ -45,7 +45,7 @@ Mark Palfi
 Github.com/Mark-Palfi
 
 Education:
-2020- Present		Grade 8 student at St.Joseph High School 			Ottawa
+2020- Present		Grade 8 student at St. Joseph High School 			Ottawa
 
 Work Experience:
 None Yet
