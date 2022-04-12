@@ -40,12 +40,30 @@ Version Control:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-
-
-
-
 Mark Palfi
-440 Longfields Drive Ottawa, Ontario 		        613-823-1663  		            Jorge.Azucar@qwerty.com
-Github.com/
+440 Longfields Drive Ottawa, Ontario
+Github.com/Mark-Palfi
 
+Education:
+2020- Present		Grade 8 student at St.Joseph High School 			Ottawa
+
+Work Experience:
+None Yet
+
+Volunteer Experience:
+None yet
+
+Certificates and Achievements:
+None yet
+
+Essential Skills
+Problem solving skills, leadership experience, determination, great research skills, and knowledge of conflict resolution.
+
+
+Computer Knowledge:
+Programming languages: HTML CSS JavaScript, C#
+Operating Systems: ChromeOS, Windows
+Google Docs and Slides
+
+Hobbies and Interests:
+Chess, Violin, Programming, Video games
