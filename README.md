@@ -33,5 +33,19 @@ Social:
 Smartphone Brands:
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 
+IDEs/Editors:
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
 Version Control:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+
+
+
+Mark Palfi
+440 Longfields Drive Ottawa, Ontario 		        613-823-1663  		            Jorge.Azucar@qwerty.com
+Github.com/
+
